@@ -58,7 +58,6 @@ class DoctorImageAndText extends StatelessWidget {
         Container(
           foregroundDecoration: BoxDecoration(
             gradient: LinearGradient(
-              // تم تعديل الألوان لضمان ظهور التدرج بشكل صحيح
               // colors: [Colors.white, Colors.white.withOpacity(0.0)],
               // استبدال Colors.white.withOpacity(0.0) بـ Colors.white.withAlpha(0)
               colors: [Colors.white, Colors.white.withAlpha(0)],
